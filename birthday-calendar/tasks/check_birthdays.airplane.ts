@@ -19,7 +19,7 @@ export default airplane.task(
 
 			if( givenDate.toDateString() === today.toDateString() ) {
 				// Replace the webhook URL with your own
-				const webhookUrl = 'https://hooks.slack.com/services/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';
+				const webhookUrl = 'https://hooks.slack.com/services/XXXXXXXXXXX/XXXXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXX';
 
 				// Message payload
 				const payload = JSON.stringify({

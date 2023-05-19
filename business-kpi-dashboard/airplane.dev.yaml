@@ -1,0 +1,9 @@
+resources: []
+configVars: {}
+envVars:
+    FATHOM_KEY: 1125899931000013|81xlDlvGPvPvbC8ZEhbwJS60TgeMP5ac0MmCXHHe
+    HS_APP_ID: gXTeXq27hJFElqjFKnVRGy7VGfuBnAlb
+    HS_APP_SECRET: lfmEiINEToCJeBr1NK7TYxvJuXKC03I5
+    MAILBOX_ID: "97515"
+    SITE_ID: UEZMAIOL
+    STRIPE_KEY: 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
